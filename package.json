@@ -1,0 +1,18 @@
+{
+  "name": "assignment-7",
+  "version": "1.0.0",
+  "description": "A dynamic Todo List web app using EJS and Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["todo", "express", "ejs", "node"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "method-override": "^3.0.0"
+  }
+}
